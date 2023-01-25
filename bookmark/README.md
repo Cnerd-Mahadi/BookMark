@@ -1,6 +1,6 @@
-#To visit the live site
+# To visit the live site
 
-Go to : (https://nerdbookmark.netlify.app/)
+Go to : [BookMark](https://nerdbookmark.netlify.app/)
 
 # Getting Started with Create React App
 
